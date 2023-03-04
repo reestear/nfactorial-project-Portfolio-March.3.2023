@@ -17,7 +17,7 @@ export default function Project({id, IMG, name, description, lists}) {
                 {
                     lists.map((list) => (
                         <>
-                            <List text = {list.text}></List>
+                            <List text = {list.text} link = {list.link}></List>
                             <div style={{paddingBottom: '10px'}}></div>
                         </>
                     ))
