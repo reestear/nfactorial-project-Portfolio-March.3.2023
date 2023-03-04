@@ -1,0 +1,13 @@
+.head{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+.buttons{
+    display: flex;
+    justify-content: flex-end;
+    justify-content: space-around;
+    width: 25%;
+
+}

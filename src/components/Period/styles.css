@@ -1,0 +1,36 @@
+.Period{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 40%;
+    height: auto;
+}
+.year p{
+    font-size: 12px;
+    font-weight: 700;
+}
+.Period-Infos{
+    display: flex;
+    flex-direction: column;
+    
+}
+.place{
+    font-size: 12px;
+    margin-left: 35px;
+    margin-top: 5px;
+}
+.Text{
+    margin-top: 10px;
+    margin-bottom: 20px;
+    margin-left: 3px;
+
+    padding: 15px;
+
+    font-size: 12px;
+    border:1px solid #999999;
+    width:267px;
+    position: relative;
+    display: inline-block;
+    height: auto;
+    
+}

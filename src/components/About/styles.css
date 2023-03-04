@@ -1,0 +1,16 @@
+.About{
+    display: flex;
+    justify-content: space-between;
+}
+.Image img{
+    width: 240px;
+    height: 274.5px;
+    overflow: hidden;
+}
+.Lists{
+    display: grid;
+    grid-template-columns: 300px 300px;
+    grid-row: auto auto;
+    grid-column-gap: 20px;
+    grid-row-gap: 20px;
+}

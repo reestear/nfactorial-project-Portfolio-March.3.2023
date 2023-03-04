@@ -1,0 +1,15 @@
+.List{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.List img{
+    height: 18px;
+    width: 18px;
+    margin-right: 15px;
+}
+.List p{
+    font-size: 12px;
+    margin: 0;
+    border: none;
+}
